@@ -1,0 +1,53 @@
+
+.body{
+    background-color: #2e8b57;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center; 
+}
+
+.container-div{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    background-color: #298629;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+h1{
+    color:goldenrod;
+    text-align: center;
+}
+
+#message-el{
+    color :white;
+    font-size: 18px;
+    margin: 20px;
+    text-align: center;
+    font-weight:bold;
+    font-style: italic;
+}
+
+#cards-el , #sum-el, #player-el{
+    color :white;
+    font-size: 16px;
+    margin: 20px;
+    text-align: center;
+    font-weight:bold;
+}
+
+button{
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 2px;
+    width: 200px;
+    cursor: pointer;
+    margin: 3px;
+    background-color: goldenrod;
+    align-items:center;
+    color: #1d5b07;
+
+}
